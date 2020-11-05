@@ -2,7 +2,7 @@
 Este proyecto fue realizado con Angular 10
 
 ## DEMO
-* [Demo](https://peliculas-app-seccion-new-p3novfxfz.vercel.app/home)
+* [Demo](https://peliculas-app-seccion-new-p3novfxfz.vercel.app/)
 
 
 

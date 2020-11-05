@@ -21,7 +21,7 @@ npm install
 
 ### Ejecutar 📋
 
-Corre el programa localmente.
+Ejecuta el programa localmente.
 
 ```
 ng g -o
@@ -30,19 +30,16 @@ ng g -o
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [The MovieDB](https://developers.themoviedb.org/3) -API
 * [Swiper](https://www.npmjs.com/package/ngx-swiper-wrapper) - para el manejador de sliders
 
 
 ## Autores ✒️
 
-_Es un proyecto del curso de angular de - Fernando Herrera_
+_Es un proyecto del curso de angular con Fernando Herrera_
 
 
-* **Delver Villanueva** - *Mi portafolio* - [villanueva](https://delvervillanueva.live/)
-
+* **Delver Villanueva** - *Mi portafolio* - [DelverVillanueva](https://delvervillanueva.live/)
 
 ## Licencia 📄
 
@@ -50,8 +47,8 @@ Este proyecto está bajo la Licencia (Fernando Herrera)
 
 ## Expresiones de Gratitud 🎁
 
-* El proyecto es pequeño pero muy interante 📢
-* Relajate sientate  toma un☕ y revisa el código, práctica ;)
+* El proyecto es pequeño pero muy interesante 📢
+* Relajate sientate toma un☕ y revisa el código, práctica ;)
 * 🤓.
 
 ---

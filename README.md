@@ -1,6 +1,11 @@
 # PeliculasApp-angular
 Este proyecto fue realizado con Angular 10
 
+## DEMO
+* [Demo](https://peliculas-app-seccion-new-p3novfxfz.vercel.app/home)
+
+
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._

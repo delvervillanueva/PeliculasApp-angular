@@ -19,7 +19,10 @@
     "@angular/platform-browser": "~10.0.9",
     "@angular/platform-browser-dynamic": "~10.0.9",
     "@angular/router": "~10.0.9",
+    "ng-starrating": "^1.0.17",
+    "ngx-swiper-wrapper": "^10.0.0",
     "rxjs": "~6.5.5",
+    "swiper": "^6.3.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },

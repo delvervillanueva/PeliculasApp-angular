@@ -1,27 +1,88 @@
-# PeliculasAppSeccionNew
+# Título del Proyecto
+Este proyecto fue realizado con Angular 10
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+## Comenzando 🚀
 
-## Development server
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Mira **Deployment** para conocer como desplegar el proyecto.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Pre-requisitos 📋
 
-## Build
+Instalar npm
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```
+install npm
+```
 
-## Running unit tests
+### Instalación 🔧
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Una vez que clones la aplicación, corre el programa localmente
 
-## Running end-to-end tests
+```
+ng g -o
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+_Y repite_
 
-## Further help
+```
+hasta finalizar
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+## Ejecutando las pruebas ⚙️
+
+_Explica como ejecutar las pruebas automatizadas para este sistema_
+
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [The MovieDB](https://developers.themoviedb.org/3) -API
+* [Swiper](https://www.npmjs.com/package/ngx-swiper-wrapper) - para el manejador de sliders
+
+
+## Autores ✒️
+
+_Es un proyecto del curso de angular de - Fernando Herrera_
+
+* **Delver Villanueva** - *Mi portafolio* - [villanueva](https://delvervillanueva.live/)
+
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+* El proyecto es pequeño pero muy interante 📢
+* Relajate y ve sientate y toma☕ y resisa el código . 
+* 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [Villanuevand](https://github.com/delvervillanueva) 😊
